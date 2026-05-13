@@ -1,4 +1,4 @@
-# 
+# custom Atom for PC | Atom for Windows Tool | terminal-integration + linting offers the most advanced Atom for PC | Atom for Windows tool, with terminal-integration and linting.
 
 
 
